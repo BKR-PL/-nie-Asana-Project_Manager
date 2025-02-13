@@ -1,8 +1,8 @@
-# React + Vite
+# Project-Manager aka "(nie)Asana"
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Prosty strona na studia. Miał być projekt w Figma i Bubble.io lecz się zagalopowałem i zacząłem robić aplikację w React. 
+Mało dopracowane, dużo do poprawy.
 
-Currently, two official plugins are available:
+Strona hostowana na: https://71104-project-manager.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Wykorzystanie technologie: React, CSS (Tailwind), HTML, JS, NodeJS, Vite
